@@ -1,0 +1,137 @@
+<h1>CS 5412 - Assignment 1: Real-Time Restaurant Geolocation Service with Node.js</h1>
+<div style="height:500px;">
+<fieldset style="width:400px; float:left;"><legend>Enter details below:</legend>
+<form method="GET" action="/details">
+	<br/>
+<label>Address: <input name="place" type="text" size=50/></label><br/><br/>
+<br/>
+<br/>
+<label>Latitude: <input name="Latitude" type="text" /></label><br/><br/>
+<label>Longitude: <input name="Longitude" type="text" /></label><br/><br/>
+<br/>
+<br/>
+<label>Please enter Radius(in miles): <input name="radius" type="number" step="any"/></label><br/><br/>
+<br/>
+<input type="submit" name="submit" value="Submit">
+</form>
+</fieldset>
+
+{{#if user_latlng}}
+<div id="map-canvas"></div>
+<style>
+#map-canvas {
+	width: 1000px;
+	height: 400px;
+	float: right;
+}
+</style>
+<script src="https://maps.googleapis.com/maps/api/js"></script>
+<script>
+
+	var myLatlng = new google.maps.LatLng({{user_latlng.latitude}}, {{user_latlng.longitude}});
+	var restaurant = [
+		{{#each res_latlng}}
+			new google.maps.LatLng({{latitude}}, {{longitude}}),
+		{{/each}}
+	];
+
+	var markers = [];
+	var map;
+
+	function initialize() {
+	  var mapOptions = {
+	    zoom: 15,
+	    center: myLatlng
+	  };
+
+	  map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+	  //http://stackoverflow.com/questions/26878469/google-maps-javascript-api-get-accurate-location
+		var marker = new google.maps.Marker({
+    	 position: myLatlng,
+    	 title:"Hello World!"
+		});
+	 	marker.setMap(map);
+	 	var sunCircle = {
+        strokeColor: "#c3fc49",
+        strokeOpacity: 0.8,
+        strokeWeight: 2,
+        fillColor: "#c3fc49",
+        fillOpacity: 0.35,
+        map: map,
+        center: myLatlng,
+        radius: 804 // in meters
+    };
+    cityCircle = new google.maps.Circle(sunCircle)
+    cityCircle.bindTo('center', marker, 'position');
+
+
+	 	  var infowindow = new google.maps.InfoWindow();
+
+    var marker, i;
+    //http://stackoverflow.com/questions/3059044/google-maps-js-api-v3-simple-multiple-marker-example
+    for (i = 0; i < restaurant.length; i++) {  
+      marker = new google.maps.Marker({
+        position: new google.maps.LatLng(restaurant[i][1], restaurant[i][2]),
+        map: map
+      });
+
+      google.maps.event.addListener(marker, 'click', (function(marker, i) {
+        return function() {
+          infowindow.setContent(restaurant[i][0]);
+          infowindow.open(map, marker);
+        }
+      })(marker, i));
+    }
+	}
+
+
+
+	google.maps.event.addDomListener(window, 'load', initialize);
+
+
+</script>
+{{/if}}
+</div>
+<br/>
+<br/>
+<h2>Fetched 10 map info out of {{data_count}} available in DB</h2>
+{{#if data}}
+<div class="CSSTableGenerator">
+<table>
+	<tr>
+		<th>Number</th>
+		<th>Name</th>
+		<th>Street</th>
+		<th>City</th>
+		<th>Pin</th>
+		<th>Phone</th>
+		<th>Distance</th>
+	</tr>
+		{{#each data}}
+			<tr>
+				<td>
+					{{count}}
+				</td>
+				<td>
+					{{name}}
+				</td>
+				<td>
+					{{street}}
+				</td>
+				<td>
+					{{city}}
+				</td>
+				<td>
+					{{pincode}}
+				</td>
+				<td>
+					{{phone}}
+				</td>
+				<td>
+					{{dist}}
+				</td>
+			</tr>
+		{{/each}}
+</table>
+</div>
+{{/if}}

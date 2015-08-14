@@ -1,0 +1,246 @@
+<1 Ferry building, San Francisco, CA 94111>|<0.5 miles>|<49405.714 ms>
+Total restaurants in that Zipcode -> 134 || Restaurants within that radius = 102
+Subway Sandwiches,2 Market Street,San Francisco,CA,94111 	0.1224376794
+Subway Sandwiches,2 Market Street,San Francisco,CA,94111 	0.1224376794
+Splendido,4 Embarcadero Center,San Francisco,CA,94111 	0.1559911015
+Splendido,4 Embarcadero Center,San Francisco,CA,94111 	0.1559911015
+City Oasis Convenience Store,100 Drumm Street,San Francisco,CA,94111 	0.190910426
+City Oasis Convenience Store,100 Drumm Street,San Francisco,CA,94111 	0.190910426
+Waterfront Restaurant and Cafe,Pier 7 On Embarcadero,San Francisco,CA,94111 	0.2009639137
+Taqueria Orale,113 Sacramento Street,San Francisco,CA,94111 	0.20547587
+Taqueria Orale,113 Sacramento Street,San Francisco,CA,94111 	0.20547587
+Taqueria Orale,113 Sacramento Street,San Francisco,CA,94111 	0.20547587
+Newyork Bagels & Co,21 Drumm St,San Francisco,CA,94111 	0.2178493994
+Newyork Bagels & Co,21 Drumm St,San Francisco,CA,94111 	0.2178493994
+Newyork Bagels & Co,21 Drumm St,San Francisco,CA,94111 	0.2178493994
+Starbucks Coffee,27 Drumm Street,San Francisco,CA,94111 	0.223531637
+Taco Bell,7 Drumm Street,San Francisco,CA,94111 	0.2247486668
+Crepe & Curry,50 Drumm Street,San Francisco,CA,94111 	0.2265995159
+Le Regency,18 California Street,San Francisco,CA,94111 	0.23536466
+Le Regency,18 California Street,San Francisco,CA,94111 	0.23536466
+The Holding Company,2 Embarcadero Center,San Francisco,CA,94111 	0.3005916564
+The Holding Company,2 Embarcadero Center,San Francisco,CA,94111 	0.3005916564
+L`Olivier,465 Davis Ct,San Francisco,CA,94111 	0.3008997824
+L`Olivier,465 Davis Ct,San Francisco,CA,94111 	0.3008997824
+IL Massimo Del Panino Delivery,441 Washington Street,San Francisco,CA,94111 	0.3026918093
+IL Massimo Del Panino,441 Washington Street,San Francisco,CA,94111 	0.3026918093
+IL Massimo Del Panino Delivery,441 Washington Street,San Francisco,CA,94111 	0.3026918093
+IL Massimo Del Panino,441 Washington Street,San Francisco,CA,94111 	0.3026918093
+Schroeders Cafe,240 Front Street,San Francisco,CA,94111 	0.3180014282
+Schroeders Cafe,240 Front Street,San Francisco,CA,94111 	0.3180014282
+Lee`s Deli,222 Front Street,San Francisco,CA,94111 	0.3180388686
+Lee`s Deli,222 Front Street,San Francisco,CA,94111 	0.3180388686
+Atrium Restaurant,101 California Street,San Francisco,CA,94111 	0.3338215944
+Mcdonald`s Restaurants,235 Front Street,San Francisco,CA,94111 	0.3453827886
+Mcdonald`s Restaurants,235 Front Street,San Francisco,CA,94111 	0.3453827886
+Mcdonald`s Restaurants,235 Front Street,San Francisco,CA,94111 	0.3453827886
+Kokkari Restaurant,200 Jackson Street,San Francisco,CA,94111 	0.3599758476
+Kokkari Restaurant,200 Jackson Street,San Francisco,CA,94111 	0.3599758476
+Rado`s Gourmet Delicatessen,230 California Street,San Francisco,CA,94111 	0.3619068699
+Rado`s Gourmet Delicatessen,230 California Street,San Francisco,CA,94111 	0.3619068699
+Cafe Insalata,209 Jackson Street,San Francisco,CA,94111 	0.3645813234
+Cafe Insalata,209 Jackson Street,San Francisco,CA,94111 	0.3645813234
+Just Desserts,3 Embarcadero Ctr,San Francisco,CA,94111 	0.3652197459
+Brian A. Ripley- Attorney at Law,529 Commercial St 3rd Fl,San Francisco,CA,94111 	0.3652197459
+Just Desserts,3 Embarcadero Ctr,San Francisco,CA,94111 	0.3652197459
+Birley Sandwiches,4 Embarcadero Ctr,San Francisco,CA,94111 	0.3652197459
+Gaylord India Restaurant,1 Embarcadero Centre,San Francisco,CA,94111 	0.3652197459
+J and M Gourmets,601 Montgomery Street Lbby,San Francisco,CA,94111 	0.3652197459
+Gaylord India Restaurant,1 Embarcadero Centre,San Francisco,CA,94111 	0.3652197459
+Fuzio,1 Embarcadero Centre,San Francisco,CA,94111 	0.3652197459
+Chevy`s Fresh Mex,2 Embarcadero Centre,San Francisco,CA,94111 	0.3652197459
+J and M Gourmets,601 Montgomery Street Lbby,San Francisco,CA,94111 	0.3652197459
+Parkway Pizza,5 Embarcadero Centre,San Francisco,CA,94111 	0.3652197459
+Birley Sandwiches,4 Embarcadero Ctr,San Francisco,CA,94111 	0.3652197459
+Brian A. Ripley- Attorney at Law,529 Commercial St 3rd Fl,San Francisco,CA,94111 	0.3652197459
+Bur-Eat-Os No 1,545 Sansome Street Bsmt,San Francisco,CA,94111 	0.3652197459
+Carl`s Jr Restaurants,4 Embarcadero Centre,San Francisco,CA,94111 	0.3652197459
+Cartwright & Alexander,222 Front St Fifth Fl,San Francisco,CA,94111 	0.3652197459
+Chevy`s Fresh Mex,2 Embarcadero Centre,San Francisco,CA,94111 	0.3652197459
+Chili Up,5 Embarcadero Centre,San Francisco,CA,94111 	0.3652197459
+Fire House Cafe,545 Sansome Street Bsmt,San Francisco,CA,94111 	0.3652197459
+Fujiya Restaurant,1 Embarcadero Center 2nd Level,San Francisco,CA,94111 	0.3652197459
+Fuzio,1 Embarcadero Centre,San Francisco,CA,94111 	0.3652197459
+Gaylord India Restaurant,1 Embarcadero Centre,San Francisco,CA,94111 	0.3652197459
+Harbor Village Restaurant,4 Embarcadero Centre,San Francisco,CA,94111 	0.3652197459
+Java City Bakery Cafe,4 Embarcadero Centre Lbby 4,San Francisco,CA,94111 	0.3652197459
+Just Desserts,3 Embarcadero Ctr,San Francisco,CA,94111 	0.3652197459
+San Francisco Fish Company,1 Ferry Building,San Francisco,CA,94111 	0.3652197459
+San Francisco Fish Company,1 Ferry Building,San Francisco,CA,94111 	0.3652197459
+Tadich Grill,240 California St,San Francisco,CA,94111 	0.3664367276
+Tadich Grill,240 California St,San Francisco,CA,94111 	0.3664367276
+MacArthur Park,607 Front St,San Francisco,CA,94111 	0.3731345399
+MacArthur Park,607 Front St,San Francisco,CA,94111 	0.3731345399
+Cafe Rocca,100 Pine Street,San Francisco,CA,94111 	0.3771928211
+Cafe Rocca,100 Pine Street,San Francisco,CA,94111 	0.3771928211
+Togos Battery,570 Battery Street,San Francisco,CA,94111 	0.3883783242
+Baskin Robbins,570 Battery Street,San Francisco,CA,94111 	0.3883783242
+Torrefazione Italia,295 California Street,San Francisco,CA,94111 	0.3950738005
+Park Grill,333 Battery Street,San Francisco,CA,94111 	0.39863613
+Park Grill,333 Battery Street,San Francisco,CA,94111 	0.39863613
+Elephant & Castle,425 Battery Street,San Francisco,CA,94111 	0.3986762528
+Banana`s,191 Pine Street,San Francisco,CA,94111 	0.4081054721
+Hotwok Express Inc,605 Battery Street,San Francisco,CA,94111 	0.4118294693
+John`s Snacks and Smokes,40 Battery Street,San Francisco,CA,94111 	0.4132789786
+John`s Snacks and Smokes,40 Battery Street,San Francisco,CA,94111 	0.4132789786
+It`s A Classic Pizza Cafe,444 Commercial Street,San Francisco,CA,94111 	0.4164472086
+Globe,290 Pacific Avenue,San Francisco,CA,94111 	0.4265807921
+Globe,290 Pacific Avenue,San Francisco,CA,94111 	0.4265807921
+Harpo Cafe,633 Battery Street,San Francisco,CA,94111 	0.4311791894
+Subway Sandwiches,483 Sacramento Street,San Francisco,CA,94111 	0.4346227777
+Subway Sandwiches,483 Sacramento Street,San Francisco,CA,94111 	0.4346227777
+Cafe AL Dente,485 Sacramento Street,San Francisco,CA,94111 	0.436510766
+Cafe AL Dente,485 Sacramento Street,San Francisco,CA,94111 	0.436510766
+Kamakura Restaurant,77 Battery Street,San Francisco,CA,94111 	0.4376546217
+Starbucks Coffee,310 Pacific Avenue,San Francisco,CA,94111 	0.442335839
+London Wine Bar,415 Sansome St,San Francisco,CA,94111 	0.4702621027
+Grumpy`s American Pub,125 Vallejo St,San Francisco,CA,94111 	0.4721356756
+Lee`s Deli,475 Sansome Street,San Francisco,CA,94111 	0.4744780831
+Lee`s Deli,475 Sansome Street,San Francisco,CA,94111 	0.4744780831
+Lee`s Deli,475 Sansome Street,San Francisco,CA,94111 	0.4744780831
+Lee`s Deli,475 Sansome Street,San Francisco,CA,94111 	0.4744780831
+Gio`s Restaurants,531 Commercial Street,San Francisco,CA,94111 	0.4847034636
+O Deli Jackson St,406 Jackson Street,San Francisco,CA,94111 	0.4902428988
+O Deli Jackson St,406 Jackson Street,San Francisco,CA,94111 	0.4902428988
+
+
+
+<406 College Ave, Ithaca, NY 14850>|<0.5 miles>|<70732.355 ms>
+Total restaurants in that Zipcode -> 205 || Restaurants within that radius = 47
+Johnny O`S,408 College Avenue,Ithaca,NY,14850 	0.0093188609
+Little Thai House,202 Dryden Court,Ithaca,NY,14850 	0.0138284466
+Stella`s Cafe,403 College Avenue,Ithaca,NY,14850 	0.0138364961
+College Town Pizza Inc,401 College Avenue,Ithaca,NY,14850 	0.0164774021
+Little Thai House II,204 Dryden Road,Ithaca,NY,14850 	0.0301973094
+Royal Palm,209 Dryden Road,Ithaca,NY,14850 	0.032048469
+Royal Palm,209 Dryden Road,Ithaca,NY,14850 	0.032048469
+Hong Kong Chinese Restaurant,120 Dryden Road,Ithaca,NY,14850 	0.0336674959
+Collegetown Court Apartments,208 Dryden Road Apt 305,Ithaca,NY,14850 	0.0359571508
+College Cafe,321 College Avenue,Ithaca,NY,14850 	0.0417764059
+Pita Pit The,143 Dryden Rd,Ithaca,NY,14850 	0.0420292954
+Pita Pit The,143 Dryden Rd,Ithaca,NY,14850 	0.0420292954
+Pita Pit The,143 Dryden Rd,Ithaca,NY,14850 	0.0420292954
+Greek House Restaurant The,119 Dryden Rd,Ithaca,NY,14850 	0.0427492565
+Greek House Restaurant The,119 Dryden Rd,Ithaca,NY,14850 	0.0427492565
+Greek House Restaurant The,119 Dryden Rd,Ithaca,NY,14850 	0.0427492565
+Greek House Restaurant The,119 Dryden Rd,Ithaca,NY,14850 	0.0427492565
+Dino`s,313 College Av,Ithaca,NY,14850 	0.0594553737
+Aladdins Natural Eatery,100 Dryden Rd,Ithaca,NY,14850 	0.063656368
+Aladdins Natural Eatery,100 Dryden Rd,Ithaca,NY,14850 	0.063656368
+Plum Tree Japanese Restaurant,113 Dryden Road,Ithaca,NY,14850 	0.0673637165
+Plum Tree Japanese Restaurant,113 Dryden Road,Ithaca,NY,14850 	0.0673637165
+Nines,311 College Avenue,Ithaca,NY,14850 	0.0682063196
+Smoothie Hut,159 Dryden Road,Ithaca,NY,14850 	0.0772312369
+Souvlaki House,315 Eddy Street,Ithaca,NY,14850 	0.1014057931
+Jason`s Grocery & Deli,301 College Av,Ithaca,NY,14850 	0.1089415728
+Jason`s Grocery & Deli,301 College Av,Ithaca,NY,14850 	0.1089415728
+Dunbar`s,409 Eddy Street,Ithaca,NY,14850 	0.1112721345
+Buffalo Street BBQ,213 1/2 Dryden Rd,Ithaca,NY,14850 	0.1138774698
+Universal Deli Grocery,428 Eddy Street,Ithaca,NY,14850 	0.1224027339
+Universal Deli Grocery,428 Eddy Street,Ithaca,NY,14850 	0.1224027339
+Miyake Japanese Restaurant,416 Eddy Street,Ithaca,NY,14850 	0.1249441249
+Miyake Japanese Restaurant,416 Eddy Street,Ithaca,NY,14850 	0.1249441249
+Four Seasons,404 Eddy Street,Ithaca,NY,14850 	0.1257180297
+Sangam Indian Restaurant,424 Eddy Street,Ithaca,NY,14850 	0.1257483876
+Sangam Indian Restaurant,424 Eddy Street,Ithaca,NY,14850 	0.1257483876
+Bistro Q,708 East Buffalo Street,Ithaca,NY,14850 	0.1479100661
+Carriage House Cafe,305 Stewart Av,Ithaca,NY,14850 	0.2222292733
+A B C Cafe,308 Stewart Avenue,Ithaca,NY,14850 	0.2405495266
+Beneficial Capital Corporation,400 Stewart Avenue,Ithaca,NY,14850 	0.2439679523
+Benchwarmers Restaurant & Sports Bar,State Street,Ithaca,NY,14850 	0.3392116613
+Carl`s Cafe,Ithaca Shopng Plz,Ithaca,NY,14850 	0.3406108285
+Banfi`s,130 Statler Drive Cornell University,Ithaca,NY,14850 	0.3538396884
+Napoli Pizzeria,401 East State Street,Ithaca,NY,14850 	0.4545637251
+Veralma-The 1850 House,211 Hudson Street,Ithaca,NY,14850 	0.468701733
+Domino's Pizza,329 E State,Ithaca,NY,14850 	0.490539711
+Domino's Pizza,329 E State,Ithaca,NY,14850 	0.490539711
+
+
+
+
+<40 Catherwood Drive, Ithaca NY 14850>|<0.5 miles>|<69645.685 ms>
+Total restaurants in that Zipcode -> 205 || Restaurants within that radius = 12
+Subway Sandwiches & Salds,40 Catherwood Road,Ithaca,NY,14850 	0
+Subway Sandwiches & Salds,40 Catherwood Road,Ithaca,NY,14850 	0
+Sicilian Delight Pizzeria,40 Catherwood Road,Ithaca,NY,14850 	0
+Easy Wok,40 Catherwood Rd,Ithaca,NY,14850 	0
+Subway Sandwiches & Salads,15 Catherwood Road,Ithaca,NY,14850 	0.1842882009
+Subway Sandwiches & Salads,15 Catherwood Road,Ithaca,NY,14850 	0.1842882009
+Dapper`s Restaurant,2310 North Triphammer Road,Ithaca,NY,14850 	0.2141268955
+McDonalds Of Triphammer,2350 North Triphammer Rd,Ithaca,NY,14850 	0.2301267956
+Applebee`s Neighborhood Grill & Bar,2300 North Triphammer Road,Ithaca,NY,14850 	0.2434340516
+Pizza Hut,2301 North Triphammer Road,Ithaca,NY,14850 	0.3802315458
+Friendly`s Ice Cream Shop,2309 North Triphammer Road,Ithaca,NY,14850 	0.4587911703
+Friendly`s Ice Cream Shoppe,2309 North Triphammer Road,Ithaca,NY,14850 	0.4587911703
+
+
+
+
+
+
+<1600 Amphitheatre Parkway, Mountain View, CA 94043>|<2 miles>|<21240.276 ms>
+Total documents in that Zipcode -> 58 || Restaurants within that radius = 43
+2400 North Shoreline Boulevard,Mountain View,CA,94043 	0.3894903751
+1674 North Shoreline Boulevard,Mountain View,CA,94043 	0.4325804775
+1477 Plymouth Street Suite B,Mountain View,CA,94043 	0.4720955201
+1477 Plymouth Street Suite B,Mountain View,CA,94043 	0.4720955201
+1477 Plymouth Street,Mountain View,CA,94043 	0.4720955201
+1477 Plymouth Street,Mountain View,CA,94043 	0.4720955201
+1040 North Rengstorff Avenue,Mountain View,CA,94043 	0.6601160866
+2058 Old Middlefield Way,Mountain View,CA,94043 	0.6850151799
+2058 Old Middlefield Way,Mountain View,CA,94043 	0.6850151799
+2078 Old Middlefield Way,Mountain View,CA,94043 	0.6904393249
+2105 Old Middlefield Way,Mountain View,CA,94043 	0.7580643782
+2105 Old Middlefield Way,Mountain View,CA,94043 	0.7580643782
+2185 Old Middlefield Way,Mountain View,CA,94043 	0.7983746493
+580 North Rengstorff Avenue,Mountain View,CA,94043 	0.941545099
+580 North Rengstorff Avenue,Mountain View,CA,94043 	0.941545099
+580 North Rengstorff Avenue,Mountain View,CA,94043 	0.941545099
+2423 Old Middlefield Way,Mountain View,CA,94043 	0.94879821
+1005 North Shoreline Boulevard,Mountain View,CA,94043 	0.9903444861
+1005 North Shoreline Boulevard,Mountain View,CA,94043 	0.9903444861
+975 North Shoreline Boulevard,Mountain View,CA,94043 	1.019798403
+975 North Shoreline Boulevard,Mountain View,CA,94043 	1.019798403
+2680 Bayshore Parkway,Mountain View,CA,94043 	1.0325518769
+2680 Bayshore Parkway,Mountain View,CA,94043 	1.0325518769
+2551 West Middlefield Road,Mountain View,CA,94043 	1.104295479
+958 San Leandro Avenue,Mountain View,CA,94043 	1.2374562381
+958 San Leandro Avenue,Mountain View,CA,94043 	1.2374562381
+570 North Shoreline Boulevard,Mountain View,CA,94043 	1.3496640705
+570 North Shoreline Boulevard,Mountain View,CA,94043 	1.3496640705
+570 North Shoreline Boulevard,Mountain View,CA,94043 	1.3496640705
+570 North Shoreline Boulevard,Mountain View,CA,94043 	1.3496640705
+570 North Shoreline Boulevard,Mountain View,CA,94043 	1.3496640705
+570 North Shoreline Boulevard,Mountain View,CA,94043 	1.3496640705
+510 North Shoreline Boulevard,Mountain View,CA,94043 	1.4077589938
+510 North Shoreline Boulevard,Mountain View,CA,94043 	1.4077589938
+510 North Shoreline Boulevard,Mountain View,CA,94043 	1.4077589938
+2312 Central Expressway,Mountain View,CA,94043 	1.496550044
+861 Leong Dr,Mountain View,CA,94043 	1.520132249
+861 Leong Dr,Mountain View,CA,94043 	1.520132249
+861 Leong Dr,Mountain View,CA,94043 	1.520132249
+55 Fairchild Drive,Mountain View,CA,94043 	1.5544839912
+430 Moffett Boulevard,Mountain View,CA,94043 	1.638507017
+430 Moffett Boulevard,Mountain View,CA,94043 	1.638507017
+327 Moffett Boulevard Suite J,Mountain View,CA,94043 	1.7317412345
+
+
+
+
+
+<3395 Cody Lane Teton Village, WY 83025>|<3 miles>|<3736.878 ms>
+Total documents in that Zipcode -> 9 || Restaurants within that radius = 9
+Solitude Cabin Dinner Sleigh Rides,7658 North Teewinot Chairlift R,Teton Village,WY,83025 	0.9163835532
+The Alpenhof Lodge,3255 West Village Drive,Teton Village,WY,83025 	1.6506644205
+Vertical,3345 West McCollister Drive,Teton Village,WY,83025 	1.6767324828
+Gamefish Restaurant,7710 Granite Loop Road,Teton Village,WY,83025 	1.6821470665
+Mangy Moose - Music & Entertainmnet,3285 West McCollister Drive,Teton Village,WY,83025 	1.737118885
+Mangy Moose - Restaurant & Saloon,3285 West McCollister Drive,Teton Village,WY,83025 	1.737118885
+Mangy Moose - Rocky Mountain Oyster,3285 West McCollister Drive,Teton Village,WY,83025 	1.737118885
+Calico,Teton Village Road,Teton Village,WY,83025 	1.8163636123
+Calico,Teton Village Road,Teton Village,WY,83025 	1.8163636123
+
+
+
+
+
